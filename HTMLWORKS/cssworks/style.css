@@ -1,0 +1,22 @@
+h1{
+    color:tomato;
+    text-align: center;
+    text-decoration: underline;
+
+
+}
+body{
+    background-color: black;
+}
+#one{
+    color:#328fa8 ;
+}
+
+.two{
+    color:rgb(red, gr168, 160, 50een, blue);
+}
+
+h3{
+    color: hsl(hue, saturatio342°, 54%, 43%n, lightness);
+    text-align: center;
+}

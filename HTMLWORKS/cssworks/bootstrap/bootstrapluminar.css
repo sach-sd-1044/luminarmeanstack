@@ -1,0 +1,15 @@
+body{
+    height: 2000px;
+}
+.nav-item a:hover{
+    background-color: purple;
+}
+.row h2{
+color: purple;
+font-size: bolder;
+}
+
+.btn-learn{
+    background-color: purple;
+color: white;
+}
